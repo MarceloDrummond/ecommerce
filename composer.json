@@ -1,0 +1,30 @@
+{
+    "name": "marcelodrummond/ecommerce",
+    "description": "Projeto Loja\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C\u001bLoja",
+    "type": "project",
+    "license": "\u0016GNU LGPL",
+ 
+
+
+    "authors": [
+        {
+            "name": "s"
+        }
+    ],
+	
+	"minimum-stability": "dev",
+	
+	"require": {
+    	"phpmailer/phpmailer":"5.2.22",
+    	"slim/slim":"2.0",
+    	"rain/raintpl":"3.0.0"
+    },
+	
+	"autoload": {
+        "psr-4": {
+            "": "vendor\\hcodebr\\php-classes\\src"
+        }
+    }
+    
+}
+
