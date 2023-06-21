@@ -1,20 +1,20 @@
 <?php return array(
     'root' => array(
-        'name' => 'marcelodrummond/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
-        'type' => 'project',
+        'name' => 'marcelonatalbh/00_ecommerce',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '800bb6e91363582665d2daa604c1631198075437',
+        'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'marcelodrummond/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
-            'type' => 'project',
+        'marcelonatalbh/00_ecommerce' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '800bb6e91363582665d2daa604c1631198075437',
+            'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'dev_requirement' => false,
